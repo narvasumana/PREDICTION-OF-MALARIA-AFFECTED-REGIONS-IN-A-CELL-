@@ -1,1 +1,2 @@
-# PREDICTION-OF-MALARIA-AFFECTED-REGIONS-IN-A-CELL-
+# PREDICTION-OF-MALARIA-AFFECTED-REGIONS-IN-A-CELL
+This project is based on Regional Convolutional Neural Networks, it uses MaskRCNN model trained on COCO dataset by Matterport. There is a set of annotated images used to build this model. The images were annotated using VGG Image Annotator. The model is trained with the newly annotated images of Malaria affected cells, later tested on a validation set. It identifies the malaria affected region in a cell.
